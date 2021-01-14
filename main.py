@@ -1,3 +1,7 @@
+print('''
+Harry Potter Top Trumps
+──────────────────''')
+
 print ("Welcome to Harry Potter Top Trumps")
 
 #Player 1
